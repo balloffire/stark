@@ -1,0 +1,4 @@
+invalid.credentials = Invalid credentials!
+user.exists = There already exists a user with this email!
+access.denied = Access denied!
+no.token = No Token!
